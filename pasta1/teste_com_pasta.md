@@ -1,4 +1,4 @@
-![Today I Learned](Imagens\Sudo.png)
+![Today I Learned](Imagens\SudoNaPasta.png)
 
 
 # Today I Learned
